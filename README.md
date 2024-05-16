@@ -1,0 +1,2 @@
+# stream_lit-serach_wiki_demo
+一个小白做的简陋搜索引擎，用了10000条wiki数据，通过文本向量化实现匹配搜索
